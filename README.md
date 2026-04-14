@@ -27,14 +27,17 @@ It includes an admin panel for managing products and categories, and a user syst
 ### 🏠 Home Page
 ![Home](screenshots/Home.png)
 ![Home](screenshots/Home2.png)
+
 ### 📦 Product Details
-![Product](screenshots/product.png)
+![Product](screenshots/products.png)
+![Product](screenshots/productdetail.png)
+
 
 ### 🛒 Cart
 ![Cart](screenshots/cart.png)
 
 ### ⚙️ Admin Panel
-![Admin](screenshots/admin.png)
+![Admin](screenshots/admindashboard.png)
 
 ---
 
